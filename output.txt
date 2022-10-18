@@ -1,0 +1,13 @@
+
+Enter an integer to search for: 10
+This array has 12 items.
+
+The array entered by the user is as follows: 
+22 -4 5 100 39 20 88 10 55 3 10 78 
+
+The sorted array is as follows: 
+-4 3 5 10 10 20 22 39 55 78 88 100 
+
+The item searched for is 10
+The value 10 is in position number 4 of the list
+The mean of all the elements in the array is 35.5
